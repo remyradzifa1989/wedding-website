@@ -70,3 +70,34 @@ NOTA
 
 - Foto galeri kini placeholder. Hantar foto sebenar untuk digantikan.
 ========================================================================
+
+
+<img width="625" height="700" alt="Screenshot 2026-08-10 124240" src="https://github.com/user-attachments/assets/a34a0c83-3987-4e0e-af5e-33f45a94075a" />
+
+<img width="628" height="654" alt="Screenshot 2026-08-10 124306" src="https://github.com/user-attachments/assets/b8be58fa-ce1b-47b4-987f-6a5fe0314997" />
+
+<img width="627" height="641" alt="Screenshot 2026-08-10 124323" src="https://github.com/user-attachments/assets/ded93fa6-14d1-4732-9db8-5fd89c6cb55f" />
+
+<img width="625" height="719" alt="Screenshot 2026-08-10 124343" src="https://github.com/user-attachments/assets/3bd75172-682c-4d7a-9497-ae1f712bc6d5" />
+
+<img width="626" height="721" alt="Screenshot 2026-08-10 124402" src="https://github.com/user-attachments/assets/5c4baff0-d76a-455f-8b2f-ab43b9b201fc" />
+
+<img width="541" height="538" alt="Screenshot 2026-08-10 124418" src="https://github.com/user-attachments/assets/173e13ea-9672-4bb9-8837-53179352a3e5" />
+
+<img width="390" height="212" alt="Screenshot 2026-08-10 124436" src="https://github.com/user-attachments/assets/48f8231a-81ab-48ae-953a-92ff44735c6e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
