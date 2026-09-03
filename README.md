@@ -100,7 +100,9 @@ NOTA
 <img width="465" height="655" alt="Screenshot 2026-08-10 124009" src="https://github.com/user-attachments/assets/738edb78-19c4-4bb0-b488-0754f33ed6b8" />
 
 
+<img width="1041" height="894" alt="Screenshot 2026-09-03 101511" src="https://github.com/user-attachments/assets/67845ebe-b93b-4102-9225-0db67e58b3a2" />
 
+<img width="886" height="900" alt="Screenshot 2026-09-03 101610" src="https://github.com/user-attachments/assets/08ea94fb-204c-44af-ac4e-c1e16ab86620" />
 
 
 
