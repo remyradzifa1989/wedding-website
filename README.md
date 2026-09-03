@@ -104,6 +104,45 @@ NOTA
 
 <img width="886" height="900" alt="Screenshot 2026-09-03 101610" src="https://github.com/user-attachments/assets/08ea94fb-204c-44af-ac4e-c1e16ab86620" />
 
+<img width="1598" height="601" alt="Screenshot 2026-09-03 102515" src="https://github.com/user-attachments/assets/8099ab1a-aab3-48d3-8dee-e75c6f514d8d" />
+
+<img width="438" height="865" alt="Screenshot 2026-09-03 102620" src="https://github.com/user-attachments/assets/5cff73ee-baad-4f53-bad6-ccdf7c374579" />
+
+<img width="657" height="905" alt="Screenshot 2026-09-03 102545" src="https://github.com/user-attachments/assets/d719b1f9-4130-4a30-a914-5768960d002f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
